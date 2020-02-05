@@ -1,0 +1,10 @@
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\bin\Debug\AlarmSpeech.exe.config
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\bin\Debug\AlarmSpeech.exe
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\bin\Debug\AlarmSpeech.pdb
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\obj\Debug\AlarmSpeech.csprojAssemblyReference.cache
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\obj\Debug\AlarmSpeech.Form1.resources
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\obj\Debug\AlarmSpeech.Properties.Resources.resources
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\obj\Debug\AlarmSpeech.csproj.GenerateResource.cache
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\obj\Debug\AlarmSpeech.csproj.CoreCompileInputs.cache
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\obj\Debug\AlarmSpeech.exe
+F:\WorkResult\CSharp\Alarm\AlarmSpeech\obj\Debug\AlarmSpeech.pdb
